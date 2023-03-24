@@ -1,0 +1,16 @@
+{
+	"portraits":{
+		"standard_male":[
+			"graphics/portraits/LC/LC4.png",
+			"graphics/portraits/LC/LC5.png",
+			"graphics/portraits/LC/LC7.png",
+			"graphics/portraits/LC/LC8.png",
+		],
+		"standard_female":[
+			"graphics/portraits/LC/LC1.png",
+			"graphics/portraits/LC/LC2.png",
+			"graphics/portraits/LC/LC3.png",
+			"graphics/portraits/LC/LC6.png",
+		],
+	},
+},

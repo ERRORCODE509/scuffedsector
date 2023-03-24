@@ -1,0 +1,25 @@
+{
+	"portraits":{
+		"standard_male":[
+			"graphics/portraits/TT/TT1.png",
+			"graphics/portraits/TT/TT2.png",
+			"graphics/portraits/TT/TT3.png",
+			"graphics/portraits/TT/TT4.png",
+			"graphics/portraits/TT/TT5.png",
+			"graphics/portraits/TT/TT6.png",
+			"graphics/portraits/TT/TT12.png",
+			"graphics/portraits/TT/TT13.png",
+			"graphics/portraits/TT/TT14.png",
+			"graphics/portraits/TT/TT15.png",
+			"graphics/portraits/TT/TT16.png",
+			"graphics/portraits/TT/TT17.png",
+		],
+		"standard_female":[
+			"graphics/portraits/TT/TT7.png",
+			"graphics/portraits/TT/TT8.png",
+			"graphics/portraits/TT/TT9.png",
+			"graphics/portraits/TT/TT10.png",
+			"graphics/portraits/TT/TT11.png",
+		],
+	},
+},
